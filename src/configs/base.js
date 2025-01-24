@@ -2,6 +2,8 @@
  * @type {import('./types').PrettierConfig}
  */
 export const basePrettierConfig = {
+  trailingComma: "es5",
+
   plugins: ["@ianvs/prettier-plugin-sort-imports"],
 
   importOrder: [

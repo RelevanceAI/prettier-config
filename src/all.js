@@ -1,3 +1,3 @@
-import { basePrettierConfig } from "./configs/base";
+import { basePrettierConfig } from "./configs/base.js";
 
 export { basePrettierConfig };

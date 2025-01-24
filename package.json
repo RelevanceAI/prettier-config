@@ -1,7 +1,7 @@
 {
-  "name": "@relevanceai/eslint-plugin",
+  "name": "@relevanceai/prettier-config",
   "version": "0.1.0",
-  "description": "eslint stuff",
+  "description": "prettier stuff",
   "type": "module",
   "main": "src/index.js",
   "types": "src/index.d.ts",
